@@ -9,7 +9,7 @@ Track your expenses with full **CRUD** functionality in a responsive and intuiti
 ## Features
 
 - ✅ add,delete transactions  
-- ✅ Real-time balance, income, and expense summary using charts(Bar & Pie Chart)
+- ✅ Real-time expense summary using charts(Bar & Pie Chart)
 - ✅ Responsive UI using Tailwind CSS  
 - ✅ Global state management with React Context API + useReducer  
 - ✅ Fully functional Create, Read, Update, Delete operations
